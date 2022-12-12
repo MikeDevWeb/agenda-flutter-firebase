@@ -1,6 +1,9 @@
-# agenda
+# Agenda/Diary
 
-A new Flutter project.
+A project based in flutter web / firebase.
+
+Diary made as a "proof" to connect with firebase and save&load dates.
+
 
 ## Getting Started
 
